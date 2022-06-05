@@ -1,0 +1,29 @@
+
+.hh{
+  width: 80%;
+  
+  margin-right: auto;
+  margin-top: 5%;
+ 
+  padding: 30px;
+  border-radius: 15px;
+
+  
+}
+Form.Control{
+  background-color: #61dafb;
+}
+.firstcontact{
+  color: gray;
+  margin: 30px;
+  font-weight: 50;
+
+}
+.cont{
+  width: 50%;
+  padding: 40px;  
+}
+.nottitel{
+  margin-top: 50px;
+  margin-left: 30px;
+}
